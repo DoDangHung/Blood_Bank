@@ -1,0 +1,13 @@
+C:\C#\blood_bank\blood_bank\bin\Debug\blood_bank.exe.config
+C:\C#\blood_bank\blood_bank\bin\Debug\blood_bank.exe
+C:\C#\blood_bank\blood_bank\bin\Debug\blood_bank.pdb
+C:\C#\blood_bank\blood_bank\obj\Debug\blood_bank.csproj.AssemblyReference.cache
+C:\C#\blood_bank\blood_bank\obj\Debug\blood_bank.csproj.SuggestedBindingRedirects.cache
+C:\C#\blood_bank\blood_bank\obj\Debug\blood_bank.Form1.resources
+C:\C#\blood_bank\blood_bank\obj\Debug\blood_bank.Properties.Resources.resources
+C:\C#\blood_bank\blood_bank\obj\Debug\blood_bank.csproj.GenerateResource.cache
+C:\C#\blood_bank\blood_bank\obj\Debug\blood_bank.csproj.CoreCompileInputs.cache
+C:\C#\blood_bank\blood_bank\obj\Debug\blood_bank.exe
+C:\C#\blood_bank\blood_bank\obj\Debug\blood_bank.pdb
+C:\C#\blood_bank\blood_bank\obj\Debug\blood_bank.Form2.resources
+C:\C#\blood_bank\blood_bank\obj\Debug\blood_bank.Form3.resources
