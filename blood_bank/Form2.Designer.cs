@@ -47,6 +47,7 @@
             this.txtComboBox1 = new System.Windows.Forms.ComboBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.lblDateTimes = new System.Windows.Forms.Label();
+            this.lblNewId = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -204,6 +205,7 @@
             // 
             // txtComboBox1
             // 
+            this.txtComboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.txtComboBox1.FormattingEnabled = true;
             this.txtComboBox1.Items.AddRange(new object[] {
             "A",
@@ -252,12 +254,21 @@
             this.lblDateTimes.TabIndex = 18;
             this.lblDateTimes.Text = "label9";
             // 
+            // lblNewId
+            // 
+            this.lblNewId.AutoSize = true;
+            this.lblNewId.Location = new System.Drawing.Point(297, 81);
+            this.lblNewId.Name = "lblNewId";
+            this.lblNewId.Size = new System.Drawing.Size(0, 16);
+            this.lblNewId.TabIndex = 19;
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Ivory;
             this.ClientSize = new System.Drawing.Size(754, 526);
+            this.Controls.Add(this.lblNewId);
             this.Controls.Add(this.lblDateTimes);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.txtComboBox1);
@@ -278,6 +289,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form2";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form2";
             this.Load += new System.EventHandler(this.Form2_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -308,5 +320,6 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label lblDateTime;
         private System.Windows.Forms.Label lblDateTimes;
+        private System.Windows.Forms.Label lblNewId;
     }
 }
